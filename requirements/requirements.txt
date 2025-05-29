@@ -1,0 +1,11 @@
+matplotlib
+mapclassify
+folium
+objectnat
+numpy==1.26.4
+pyarrow
+shapely --upgrade
+tabulate
+pandas
+geopandas
+scipy
