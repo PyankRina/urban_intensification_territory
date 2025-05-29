@@ -1,4 +1,4 @@
-![urban_intensification_territory logo](files/head)
+![urban_intensification_territory logo](files/head.png)
 
 <h2 style="color:#DA5164;">urban_intensification_territory</h2>
 
