@@ -1,0 +1,22 @@
+{
+  "school": {
+    "required": ["type"],
+    "recommended": ["capacity"]
+  },
+  "polyclinic": {
+    "required": ["type"],
+    "recommended": ["capacity"]
+  },
+  "kindergarten": {
+    "required": ["type"],
+    "recommended": ["capacity"]
+  },
+  "buildings": {
+    "required": [],
+    "recommended": ["is_living", "number_of_floors"]
+  },
+  "zones": {
+    "required": ["code_pzz", "city_model"],
+    "recommended": []
+  }
+}
